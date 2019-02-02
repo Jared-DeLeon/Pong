@@ -1,0 +1,4 @@
+compile project with command:
+  javac *.java
+run game with command:
+  java TheGame
